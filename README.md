@@ -63,11 +63,6 @@ VSCode
 
 ---
 
-## 📈 GitHub Stats
-
-![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushilambekarsa&show_icons=true&theme=radical)
-
----
 
 > 🧠 Always learning, building, and contributing. Actively looking for **Java Full Stack Developer** roles.
 
