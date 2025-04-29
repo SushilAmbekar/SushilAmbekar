@@ -42,11 +42,16 @@ VSCode
 - ✅ Features: Login, Account Management, Fund Transfer  
 - 🧪 TDD with JUnit | REST APIs | Agile team workflow
 
-### 🔹 Task Management System (Angular + Spring Boot)
-- **Frontend**: Angular 17
-- **Backend**: Java 8, Spring Boot, JWT Auth, MySQL  
-- 🔐 User roles (Admin/User), Secure login, Task CRUD  
-- ✅ Responsive UI, API tested with Postman & Swagger
+### 🔹 Expense Tracker (Personal Finance App)
+A simple and user-friendly application to track income and expenses in real time.
+
+- 💻 **Frontend**: Angular 17 / React *(choose one based on your implementation)*
+- ⚙️ **Backend**: Java 8, Spring Boot *(if applicable)*
+- 🗃️ **Database**: MySQL / In-memory (H2) *(mention what's used)*
+- 📊 Responsive UI with real-time updates
+- 📦 RESTful APIs (if backend is included), tested via Postman
+- ✅ Clean UI, organized folder structure, commit history
+- 📄 Includes README, Postman collection & setup instructions
 
 ### 🔹 React E-Commerce UI (Frontend-only)
 - Built with React and CSS3  
