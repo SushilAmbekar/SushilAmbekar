@@ -3,7 +3,7 @@
 🎯 **Java Full Stack Developer | Backend + Frontend (Angular/React)**  
 💼 1.2 Years of experience in Java, Spring Boot, MySQL, Angular & React  
 📍 Pune, Maharashtra, India
-🔗 [LinkedIn](https://www.linkedin.com/in/sushilambekarsa) | [HackerRank](https://www.hackerrank.com/dashboard)
+🔗 [LinkedIn](https://www.linkedin.com/in/sushilambekarsa) | [HackerRank](https://www.hackerrank.com/profile/sushilambekar221)
 
 ---
 
