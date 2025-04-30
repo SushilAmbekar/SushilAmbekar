@@ -36,20 +36,14 @@ VSCode
 
 ## 📌 Pinned Projects
 
-### 🔹 Capital Pay – Banking System (Full Stack)
-- **Backend**: Java 8, Spring Boot, Hibernate, MySQL  
-- **Frontend**: Angular 17 (Customer + Staff portals)  
-- ✅ Features: Login, Account Management, Fund Transfer  
-- 🧪 TDD with JUnit | REST APIs | Agile team workflow
-
 ### 🔹 Expense Tracker (Personal Finance App)
 A simple and user-friendly application to track income and expenses in real time.
 
-- 💻 **Frontend**: Angular 17 / React *(choose one based on your implementation)*
-- ⚙️ **Backend**: Java 8, Spring Boot *(if applicable)*
-- 🗃️ **Database**: MySQL / In-memory (H2) *(mention what's used)*
+- 💻 **Frontend**: Angular 17 
+- ⚙️ **Backend**: Java 8, Spring Boot 
+- 🗃️ **Database**: MySQL 
 - 📊 Responsive UI with real-time updates
-- 📦 RESTful APIs (if backend is included), tested via Postman
+- 📦 RESTful APIs , tested via Postman
 - ✅ Clean UI, organized folder structure, commit history
 - 📄 Includes README, Postman collection & setup instructions
 
