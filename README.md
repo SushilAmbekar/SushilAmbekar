@@ -57,6 +57,7 @@ A simple and user-friendly application to track income and expenses in real time
 
 ## 📜 Certifications
 
+- ✅ AWS Cloud Practitioner Essentials – [AWS]([https://www.hackerrank.com/certificates/fcf989cce1f8](https://drive.google.com/file/d/1IJnBuDsvBQrA_eVoxiTCz87ppI-PBfZN/view?usp=sharing))
 - ✅ Frontend Developer (React) – [HackerRank](https://www.hackerrank.com/certificates/0b643b17730e)
 - ✅ Java Certification – [HackerRank](https://www.hackerrank.com/certificates/2d90ca355a18)  
 - ✅ MySQL (Advanced) – [HackerRank](https://www.hackerrank.com/certificates/fcf989cce1f8)
