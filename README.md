@@ -58,9 +58,9 @@ A simple and user-friendly application to track income and expenses in real time
 ## 📜 Certifications
 
 - ✅ AWS Cloud Practitioner Essentials – [AWS](https://drive.google.com/file/d/1IJnBuDsvBQrA_eVoxiTCz87ppI-PBfZN/view?usp=sharing)
-- ✅ Introduction to Generative AI – [Amazon Web Services]([https://www.hackerrank.com/certificates/fcf989cce1f8](https://shorturl.at/Uwn4M))
-- ✅ Google Cloud Platform Fundamentals: Core Infrastructure – [Google]([https://www.hackerrank.com/certificates/fcf989cce1f8](https://www.cloudskillsboost.google/profile/badges))
-- ✅ J.P. Morgan Software Engineering Virtual Experience (Forage) – [JP Morgan Chase & Co.]([https://www.hackerrank.com/certificates/fcf989cce1f8](https://shorturl.at/PNUnJ))
+- ✅ Introduction to Generative AI – [Amazon Web Services](https://shorturl.at/Uwn4M)
+- ✅ Google Cloud Platform Fundamentals: Core Infrastructure – [Google](https://www.cloudskillsboost.google/profile/badges)
+- ✅ J.P. Morgan Software Engineering Virtual Experience (Forage) – [JP Morgan Chase & Co.](https://shorturl.at/PNUnJ)
 - ✅ Frontend Developer (React) – [HackerRank](https://www.hackerrank.com/certificates/0b643b17730e)
 - ✅ Java Certification – [HackerRank](https://www.hackerrank.com/certificates/2d90ca355a18)  
 - ✅ MySQL (Advanced) – [HackerRank](https://www.hackerrank.com/certificates/fcf989cce1f8)
