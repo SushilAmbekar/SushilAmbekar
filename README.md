@@ -70,6 +70,27 @@ Built with React and CSS3
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SushilAmbekar&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilAmbekar&theme=radical" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilAmbekar&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SushilAmbekar&theme=dracula&margin-w=15&margin-h=15&column=6" />
+</p>
+
+---
+
 ## 🔗 Connect With Me  
 
 <p align="center">
