@@ -56,7 +56,7 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
 
 ---
 
-## 📊 Most Used Languages (Custom)  
+## 📊 Most Used Languages 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-58%25-orange?style=for-the-badge&logo=java&logoColor=white" />
