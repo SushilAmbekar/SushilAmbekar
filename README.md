@@ -73,12 +73,20 @@ Built with React and CSS3
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SushilAmbekar&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilAmbekar&theme=radical" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SushilAmbekar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilAmbekar&theme=radical&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilAmbekar&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilAmbekar&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages%20(Java%20Dominant)" alt="Top Languages" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Highest%20Skill-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Master-green?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-Advanced-red?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Advanced-blue?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -86,7 +94,7 @@ Built with React and CSS3
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SushilAmbekar&theme=dracula&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SushilAmbekar&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
