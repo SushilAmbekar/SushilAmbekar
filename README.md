@@ -78,7 +78,4 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
 
 ---
 
-## 🐍 Snake Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SushilAmbekar/SushilAmbekar/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+
