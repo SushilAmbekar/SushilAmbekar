@@ -5,9 +5,9 @@
 💼 2 Years of Experience in Java, Spring Boot, MySQL, Angular & React <br/>
 📍 Pune, Maharashtra, India <br/>
 🔗 
-<a href="https://www.linkedin.com/in/sushil-ambekar">LinkedIn</a> • 
-<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/profile/sushilambekar221)">HackerRank</a> • 
-<a href="[https://yourportfolio.com](https://sushilambekar.github.io/Sushil_Ambekar.github.io/)">Portfolio</a>
+<a href="https://www.linkedin.com/in/sushilambekarsa/">LinkedIn</a> • 
+<a href="https://www.hackerrank.com/profile/sushilambekar221">HackerRank</a> • 
+<a href="https://sushilambekar.github.io/Sushil_Ambekar.github.io/">Portfolio</a>
 </p>
 
 ---
@@ -78,4 +78,7 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
 
 ---
 
-
+## 🐍 Snake Contribution Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SushilAmbekar/SushilAmbekar/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
