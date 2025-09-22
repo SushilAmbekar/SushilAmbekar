@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Sushil Ambekar</h1>
 
-<h3 align="center">🎯 Java Full Stack Developer | Backend + Frontend (Angular/React)</h3>
+<h3 align="center">🎯 Java Full Stack Developer | Backend + Frontend (Angular)</h3>
 <p align="center">
-💼 2 Years of Experience in Java, Spring Boot, MySQL, Angular & React <br/>
+💼 2 Years of Experience in Java, Spring Boot, MySQL, Angular  <br/>
 📍 Pune, Maharashtra, India <br/>
 🔗 
 <a href="https://www.linkedin.com/in/sushilambekarsa/">LinkedIn</a> • 
@@ -14,14 +14,14 @@
 
 ## 💡 About Me
 As a **Full Stack Developer**, I specialize in building **robust backend systems** and **responsive frontend interfaces**.  
-Delivered real-world applications with **Spring Boot** and **Angular/React**.  
+Delivered real-world applications with **Spring Boot** and **Angular**.  
 Strong focus on **clean code, REST APIs, and Agile delivery**.
 
 ---
 
 ## 🚀 Tech Stack
 - **💻 Backend:** Java (8), Spring Boot, Hibernate, MySQL  
-- **🌐 Frontend:** HTML, CSS3, Angular 17, React  
+- **🌐 Frontend:** HTML, CSS3, Angular 17
 - **⚙️ Tools:** Postman, Git, VSCode  
 
 ---
