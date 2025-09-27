@@ -56,12 +56,6 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
 
 **Live Demo:** [Curry Leaves](https://sushilambekar.github.io/curry-leaves-restaurant/)  
 
-**Screenshots:**
-![Screenshot1](https://github.com/user-attachments/assets/3a0f23ef-3107-4826-a9dc-bbd495b3710a)
-![Screenshot2](https://github.com/user-attachments/assets/c50ce935-ba69-40c8-bf74-060de17d10ba)
-![Screenshot3](https://github.com/user-attachments/assets/9637f5b2-7947-4a9b-b91b-552bfdb1e377)
-![Screenshot4](https://github.com/user-attachments/assets/7ab0dfb3-41f6-4603-86d0-f504c03e0c82)
-
 ---
 
 ### 3️⃣ 🍽️ FooDiee – Responsive Food Website
