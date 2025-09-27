@@ -39,7 +39,7 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
 - Responsive, modern UI  
 - REST API integration and database management  
 
-**Demo & Screenshots:**  
+**Live Demo:**  
 [Demo Video](https://drive.google.com/file/d/1nuL8WCh3NSw28heN2BCWUUQyShi9LT2G/view?usp=sharing)  
 
 ---
@@ -69,9 +69,6 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
 - Interactive UI with hover effects and smooth transitions  
 
 **Live Demo:** [FooDiee](https://sushilambekar.github.io/FooDiee/)  
-
-**Screenshot:**  
-![Homepage Screenshot](Screenshot 2025-05-12 123101.png)  
 
 **Project Structure:**
 - `index.html`: Homepage  
