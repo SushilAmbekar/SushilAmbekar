@@ -21,24 +21,70 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
 
 ## 🚀 Tech Stack
 - **💻 Backend:** Java (8), Spring Boot, Hibernate, MySQL  
-- **🌐 Frontend:** HTML, CSS3, Angular 17
+- **🌐 Frontend:** HTML, CSS3, Angular 17  
 - **⚙️ Tools:** Postman, Git, VSCode  
 
 ---
 
 ## 📌 Pinned Projects
-🔹 **Expense Tracker (Personal Finance App)**  
-✅ Frontend: Angular 17  
-✅ Backend: Java 8, Spring Boot  
-✅ Database: MySQL  
-✅ Responsive UI with real-time updates  
-✅ REST APIs tested with Postman  
-✅ Clean UI, organized commits, README + setup guide  
 
-🔹 **React E-Commerce UI (Frontend-only)**  
-✅ Built with React & CSS3  
-✅ Product Listing, Cart UI, Responsive layout  
-✅ Hooks, State Management, Reusable Components  
+### 1️⃣ MediSync – Healthcare Management Application
+**Overview:** MediSync is a modern **Healthcare Management System** that streamlines patient-doctor interactions. Patients can **book appointments, view healthcare records, and manage consultations**.  
+
+**Tech Stack:** Spring Boot (Java 17), Angular, MySQL, Bootstrap, Angular Material  
+
+**Key Features:**
+- Book and manage appointments  
+- Search doctors by specialization  
+- Responsive, modern UI  
+- REST API integration and database management  
+
+**Demo & Screenshots:**  
+[Demo Video](https://drive.google.com/file/d/1nuL8WCh3NSw28heN2BCWUUQyShi9LT2G/view?usp=sharing)  
+
+---
+
+### 2️⃣ 🌟 Curry_Leaves – Restaurant Website
+**Overview:** A modern, responsive **restaurant website** built using **HTML, CSS, and JavaScript**, showcasing professional layout and interactive UI elements.  
+
+**Tech Stack:** HTML, CSS, JavaScript, SCSS  
+
+**Features:**
+- Mobile-friendly responsive design  
+- Animated UI elements  
+- Professional presentation of menu and services  
+
+**Live Demo:** [Curry Leaves](https://sushilambekar.github.io/curry-leaves-restaurant/)  
+
+**Screenshots:**
+![Screenshot1](https://github.com/user-attachments/assets/3a0f23ef-3107-4826-a9dc-bbd495b3710a)
+![Screenshot2](https://github.com/user-attachments/assets/c50ce935-ba69-40c8-bf74-060de17d10ba)
+![Screenshot3](https://github.com/user-attachments/assets/9637f5b2-7947-4a9b-b91b-552bfdb1e377)
+![Screenshot4](https://github.com/user-attachments/assets/7ab0dfb3-41f6-4603-86d0-f504c03e0c82)
+
+---
+
+### 3️⃣ 🍽️ FooDiee – Responsive Food Website
+**Overview:** FooDiee is a sleek, responsive food website featuring **recipes and food-related content**.  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+**Features:**
+- Fully responsive design across devices  
+- Food categories and recipe information  
+- Interactive UI with hover effects and smooth transitions  
+
+**Live Demo:** [FooDiee](https://sushilambekar.github.io/FooDiee/)  
+
+**Screenshot:**  
+![Homepage Screenshot](Screenshot 2025-05-12 123101.png)  
+
+**Project Structure:**
+- `index.html`: Homepage  
+- `css/`: Styles  
+- `js/`: JavaScript functionality  
+- `images/`: Asset images  
+- `screenshots/`: Documentation screenshots  
 
 ---
 
@@ -75,7 +121,3 @@ Strong focus on **clean code, REST APIs, and Agile delivery**.
   <img src="https://img.shields.io/badge/React-12%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
----
-
-
