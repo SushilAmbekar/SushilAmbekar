@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer · Java · Spring Boot · Microservices · Angular</h3>
 
 <p align="center">
-  2+ years building secure, scalable enterprise applications — and shipping my own products to real users.<br/>
+  3+ years building secure, scalable enterprise applications — and shipping my own products to real users.<br/>
   📍 Pune, India
 </p>
 
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About me
 
-- 💼 **Java Backend Developer** at **Innover Infotech** (Apr 2024 – Oct 2025), after an internship there (Oct 2023 – Mar 2024)
+- 💼 **Java Backend Developer** at **Innover Infotech** (Oct 2023 – Oct 2026), after an internship there (April 2023 – September 2023)
 - ⚡ Cut API response times by **30%** through SQL tuning and caching
 - 🚀 Builder of **[RecruitScrape](https://www.recruitscrape.com)** — a live recruiter SaaS
 - 📱 Creator of **[Hindu Prayer Lock](https://play.google.com/store/apps/details?id=com.hinduprayer.lock)** — **5K+ downloads, 4.5★** on Google Play
@@ -74,14 +74,14 @@
 
 ## 💼 Experience
 
-**Java Backend Developer — Innover Infotech** · Remote · *Apr 2024 – Oct 2025*
+**Java Backend Developer — Innover Infotech** · Remote · *Oct 2023 – Oct 2026*
 - Built secure, scalable REST APIs with Spring Boot & Hibernate, integrated with an Angular frontend
 - Implemented a microservices architecture with Spring Cloud
 - Reduced API response time by 30% via SQL query tuning and caching
 - Ran apps in Docker on Linux; built Jenkins CI/CD pipelines for builds, deploys and quality checks
 - Production support & incident troubleshooting to meet SLAs; recognized as a high-commit contributor
 
-**Software Engineer Intern — Innover Infotech** · Pune · *Oct 2023 – Mar 2024*
+**Software Engineer Intern — Innover Infotech** · Pune · *April 2023 – September 2023*
 - Java & Spring Boot development, unit testing, debugging, deployments and bug fixing
 
 ---
